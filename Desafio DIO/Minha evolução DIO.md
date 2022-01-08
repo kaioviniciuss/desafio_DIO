@@ -12,3 +12,5 @@ Meu nome é Kaio Vinícius Soares de Sá, sempre me interessei pela área da pro
 - IDE Instalação e Configuração (Visual Studio) - 03/01/2022
 - Construindo páginas para internet com Bootstrap - 04/01/2022
 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso - 06/01/2022
+- IDE Instalação e Configuração (Visual Studio Code) - 06/01/2022
+- Introdução ao JavaScript - 07/01/2022
