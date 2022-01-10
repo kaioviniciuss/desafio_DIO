@@ -14,3 +14,6 @@ Meu nome é Kaio Vinícius Soares de Sá, sempre me interessei pela área da pro
 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso - 06/01/2022
 - IDE Instalação e Configuração (Visual Studio Code) - 06/01/2022
 - Introdução ao JavaScript - 07/01/2022
+- Sintaxe Básica em JavaScript - 08/01/2022
+- Sintaxe e Operadores - 08/01/2022
+- Variáveis e Tipos - 09/01/2022
